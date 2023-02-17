@@ -261,7 +261,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background: linear-gradient(110deg, #3c0e0e 55%, rgba(60, 90, 90, 0) 55%), url(../images/banner-bg.webp);
+    background: linear-gradient(70deg, #050235 55%, rgba(60, 90, 90, 0) 55%), url(../images/banner-bg.webp);
     position: relative;
     padding-bottom: 90px;
 }
@@ -476,7 +476,7 @@ button {
 .movies_section {
     width: 100%;
     float: left;
-    background-color: #3c0e0e;
+    background-color: #050235;
     height: auto;
     padding-bottom: 90px;
 }
@@ -670,7 +670,7 @@ button {
 .newsletter_section {
     width: 100%;
     float: left;
-    background-image: url(../images/newsletter-bg.png);
+    background-color: black;
     height: auto;
     padding-bottom: 90px;
     background-size: 100%;
@@ -743,7 +743,7 @@ input.email_text::placeholder {
     text-align: center;
     font-size: 26px;
     color: #fff;
-    background-color: #3c0e0e;
+    background-color: #050235;
     border-radius: 100px;
     padding: 15px 0px;
     margin-top: 100px;
